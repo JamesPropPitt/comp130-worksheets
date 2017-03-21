@@ -18,7 +18,7 @@ Over the course of the entire term, Steven and I worked on and implemented close
 * Added fog
 * Added death screen
 ## Sprint 6
-###PRESENTATION WEEK, NO WORK TOOK PLACE
+### PRESENTATION WEEK, NO WORK TOOK PLACE
 
 ## Sprint 7
 * Fixed the animations and successfully implemented them.
