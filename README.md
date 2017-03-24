@@ -4,22 +4,24 @@ Over the course of the entire term, Steven and I worked on and implemented close
 * Helped the team set up the Trello and Slack pages
 ## Sprint 2
 * Pair programming with Steven
-
-## Sprint 3
 * Figured out how to attach the sword to the actor so that it moved and worked as a hitbox
 * Accidentally overwrote progress so the previous bullet point's progress is redundant.
 * Attached sword to actor again
-## Sprint 4
+## Sprint 3
 * Added the code so that the player can actually die.
 * Added the code so that the AI can actually die.
-## Sprint 5
 * Imported the animations.
+### PRESENTATION SPRINT, NO WORK TOOK PLACE
+## Sprint 5
 * Changed the scenery.
 * Added fog
 * Added death screen
-## Sprint 6
-### PRESENTATION WEEK, NO WORK TOOK PLACE
-
-## Sprint 7
 * Fixed the animations and successfully implemented them.
 * Supported other members of the team with their work.
+## Sprint 6
+* Content lock, but we still carried on adding content due to the sheer amount of content we lacked
+* Textured the buildings
+* Attached sword with hitboxes to the character for the 3rd time
+
+
+
